@@ -129,7 +129,7 @@ dev.off()
 #    Горизонтальний barplot() + підкладка «смуг» через rect()
 # ==========================================================
 
-# Дані (як у методичці)
+# Дані
 ipsos <- data.frame(
   Country = c("Brazil","Germany","Poland","South Africa","Canada","Great Britain",
               "Italy","South Korea","China","Indonesia","Russia","Turkey",
